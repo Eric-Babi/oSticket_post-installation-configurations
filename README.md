@@ -80,11 +80,22 @@
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/5t2CeyS.png" height="70%" width="70%" alt=""/>
+<img src="https://i.imgur.com/hPZ3I5I.png" height="70%" width="70%" alt=""/>
 </p>
 <p>
-
-
   
-7. Configure Help Topics. While in the "Admin Panel", click "Manage" -> "Help Topics" -> "Add New Help Topic". Name the topic "Business Critical Outage", and leave the parent topic as is. Repeat the steps and create more help topics named "Personal Computer Issues", "Equipment Request", and "Password Reset". The osTicket post-installation steps are now complete.
+7. Configure Help Topics.
+   - In the "Admin Panel" click "Manage"
+   - Click "Help Topics"
+   - Click "Add New Help Topic".
+   - Name the topic "Business Critical Outage", and leave the parent topic as is.
+   - Repeat the steps and create more help topics named "Personal Computer Issues", "Equipment Request", and "Password Reset".
+     
+     </p>
+<br />
+<p>
+<img src="https://i.imgur.com/7J6wCEp.png" height="70%" width="70%" alt=""/>
+</p>
+<p>
+8. The osTicket post-installation steps are now complete.
 <br />
